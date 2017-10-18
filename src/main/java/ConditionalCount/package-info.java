@@ -1,0 +1,1 @@
+/*统计风速大于4小于12 的风机的数量*/package ConditionalCount;
